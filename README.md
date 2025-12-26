@@ -2,6 +2,10 @@
 
 ## ULTRAKILL color scheme generator using pywal and imagemagick
 
+
+https://github.com/user-attachments/assets/987fea56-ab67-479c-8e1d-fa53700f3c45
+
+
 ___
 
 ### Dependencies
